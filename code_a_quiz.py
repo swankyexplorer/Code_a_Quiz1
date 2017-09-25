@@ -101,8 +101,8 @@ def play_game(): #full game scenario set up
 
 #1 def set_up_quiz(play_game): #helper function (for the play_game) to simplify the code.
 #     return play_game
-    set_up_quiz = play_game()
-    print set_up_quiz
+#     set_up_quiz = play_game()
+#     print set_up_quiz
     while answers_index < len(answers):
         """
         Checking if teh anwer is correct.
